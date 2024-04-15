@@ -4,7 +4,7 @@ I am Will from Argentina. I am passionate about technology and I am always looki
 
 - My current goals:
 
-I am currently learning C# and SQL Server. I am also interested in learning full stack development.
+I am currently learning C#, JAVA and SQL Server. I am also interested in learning full stack development.
 I have beginner or basic knowledge of C, Pascal, Visual Basic, MySQL, HTML and JavaScript.
 
 - My plans for the future
