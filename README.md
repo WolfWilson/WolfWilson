@@ -14,7 +14,6 @@ I am also interested in learning machine learning and artificial intelligence.
 
 - Contact information
 
-[wolfwilson1986@outlook.com]
 [LinkedIn]
 <!---
 WolfWilson/WolfWilson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
