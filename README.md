@@ -28,6 +28,8 @@
 -   **MySQL** 🗃️
 -   **HTML** 🌐
 -   **JavaScript** 📜
+  
+🖌️ Besides programming, I also have knowledge in graphic design with Photoshop, enabling me to create compelling visual content and user interfaces.
 
 ## 🌟 Future Plans
 
