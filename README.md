@@ -1,20 +1,43 @@
-- Presentation:
+#  Hi! I'm Will from Argentina 🤘🎸🎧
 
-I am Will from Argentina. I am passionate about technology and I am always looking for ways to improve my digital skills.
+👋 **Welcome to my repository!** I am passionate about technology and always looking for ways to improve my digital skills.
 
-- My current goals:
+## 🚀 My Current Goals
 
-I am currently learning C#, JAVA and SQL Server. I am also interested in learning full stack development.
-I have beginner or basic knowledge of C, Pascal, Visual Basic, MySQL, HTML and JavaScript.
+🎯 I am currently learning:
 
-- My plans for the future
+> -   **Python** 🐍
+> -   **JAVA** ☕
+> -   **SQL Server** 🗄️
 
-I plan to continue learning C# and SQL Server. I also plan to learn more about full stack development, including frontend and backend development.
-I am also interested in learning machine learning and artificial intelligence.
+🌐 Additionally, I am interested in responsive web development with:
 
-- Contact information
+> -   **HTML** 📝
+> -   **CSS** 🎨
+> -   **JavaScript** ⚡
 
-<!---
-WolfWilson/WolfWilson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 💡 Additional Knowledge
+
+🔰 I have beginner or basic knowledge in:
+
+> -   **C** 💾
+> -    **C#** 💻
+> -   **Pascal** 📘
+> -   **Visual Basic** 📊
+> -   **MySQL** 🗃️
+> -   **HTML** 🌐
+> -   **JavaScript** 📜
+
+## 🌟 Future Plans
+
+🔍 My future plans include:
+
+-   Continuing to learn **C#** and **SQL Server**.
+-   Deepening my knowledge in **Full Stack Development**, covering both **frontend** and **backend**.
+-   Exploring **Machine Learning** and **Artificial Intelligence** 🤖.
+
+## 📫 Contact Information
+
+> ✨If you want to get in touch with me, you can find me on social media
+> or send me a direct message. I am always ready to collaborate and
+> learn together!✨
