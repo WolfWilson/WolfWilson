@@ -35,7 +35,7 @@
 
 🔍 My future plans include:
 
--   Continuing to learn **C#** and **SQL Server**.
+-   Continuing to learn Python and **Web design**.
 -   Deepening my knowledge in **Full Stack Development**, covering both **frontend** and **backend**.
 -   Exploring **Machine Learning** and **Artificial Intelligence** 🤖.
 
