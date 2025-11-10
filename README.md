@@ -34,8 +34,11 @@ I specialize in **Python development** across multiple platforms, building both 
 
 **DevOps & Tools:**
 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
+![PythonAnywhere](https://img.shields.io/badge/PythonAnywhere-1D9FD7?style=for-the-badge&logo=python&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 
@@ -43,11 +46,11 @@ I specialize in **Python development** across multiple platforms, building both 
 
 **Desktop Development** — I have a passion for creating intuitive desktop applications using **PySide, PyQt5, and PyQt6**. I've built multiple GUI applications with advanced data visualization using **Matplotlib** and custom graphics with Canvas, delivering powerful tools for Windows environments.
 
-**Deployment & Infrastructure** — Experienced in deploying Django applications on **IIS with HttpPlatformHandler**, managing Windows Server environments, and exploring containerization with **Docker** for modern deployment strategies.
+**Deployment & Infrastructure** — Experienced in deploying Django applications across multiple platforms: **IIS with HttpPlatformHandler** for Windows Server environments, **PythonAnywhere** for cloud-based Python hosting, and exploring containerization with **Docker** for modern deployment strategies. I handle the complete deployment lifecycle from development to production.
 
 **Database Management** — Strong expertise in **MSSQL Server 2012/2019**, **SQLite** for lightweight solutions, relational database design, query optimization, and data modeling for enterprise applications.
 
-**Development Workflow** — I leverage **GitLab** for version control and CI/CD, combined with **GitHub Copilot** for accelerated development, automated testing, comprehensive documentation, and process optimization.
+**Development Workflow** — I leverage **Git/GitHub/GitLab** for version control and CI/CD pipelines, combined with **GitHub Copilot** for accelerated development, automated testing, comprehensive documentation, and process optimization.
 
 ---
 
